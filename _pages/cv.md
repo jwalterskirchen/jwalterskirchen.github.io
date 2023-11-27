@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Political Science, University of Innsbruck, 2016
+* M.Sc. in International Relations, University of Essex, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep. 2021 - ongoing <b> Research Associate </b>
+  * Center for Crisis Early Warning, University of the Bundeswehr, Munich. ”Integrating unstructured data sources to improve crisis early warning models”. Director: Prof. Dr. Carlo Masala.
+* Mar. 2021 - Sep. 2021 <b>Research Associate</b>
+  * Crisis Early Warning - IT Support, Center for Intelligence and Security Studies (CISS), University of the German Federal Armed Forces. ”Validation of computer-assisted methods to improve crisis early warning models”. Project manager: Prof. Dr. Carlo Masala.
+* Mar. 2019 - Feb. 2021 <b>Research Assistant</b>
+  * Department of Political Science of the University of Innsbruck - OeNB funded project. ”Sanction dynamics in the cases of North Korea, Iran and Russia: Objectives, Measures and Effects”. Supervised by Prof. Dr. Gerhard Mangott.
+* Apr. 2018 - Jan. 2019 <b>Prevention of Violent Extremism (PVE) Consultant</b>
+  * United Nations Office of Counter-Terrorism, New York City.
+* Sept. 2017 - Feb. 2018 <b>Political Affairs Intern</b>
+  * United Nations Office of Counter-Terrorism, New York City.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +46,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Download PDF Version [here](/files/CV_Walterskirchen_Nov2023.pdf).
