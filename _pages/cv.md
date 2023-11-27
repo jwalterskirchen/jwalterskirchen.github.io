@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Download PDF Version [here](/files/CV_Walterskirchen_Nov2023.pdf) <i>Version:Nov. 2023</i>
+
+
 Education
 ======
 * B.A. in Political Science, University of Innsbruck, 2016
@@ -46,4 +49,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Download PDF Version [here](/files/CV_Walterskirchen_Nov2023.pdf).
