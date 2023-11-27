@@ -3,7 +3,7 @@ title: "Presentation at the CCEW Symposium 2023"
 collection: presentations
 type: "Presentation"
 permalink: /presentations/ccew23
-venue: "UC San Francisco, Department of Testing"
+venue: "University of the Bundeswehr"
 date: 2023-10-24
 location: "Munich, Germany"
 ---
