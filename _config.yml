@@ -269,7 +269,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Europe/Vienna # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
 # Plugins
 plugins:
   - jekyll-paginate
@@ -289,7 +289,7 @@ whitelist:
   - jemoji
 
 # theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Archives
