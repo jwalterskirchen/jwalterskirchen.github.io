@@ -48,4 +48,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Work in Progress
+======
+  <ul>{% for post in site.workinprogress %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
   
