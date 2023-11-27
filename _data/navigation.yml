@@ -11,7 +11,10 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+
+  - title: "Work in Progress"
+    url: /work_in_progress/
+    
   - title: "Blog Posts"
     url: /year-archive/
     
