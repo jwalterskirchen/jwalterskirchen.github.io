@@ -3,7 +3,7 @@ title: "Replication of The Morning After:  Report from the Nottingham Replicatio
 collection: publications
 permalink: /publication/2023-07-03-notts_replication
 excerpt: 'As part of the Nottingham Replication Games (I4R) we replicated "The morning after: cabinet instability and the purging of ministers after failed coup attempts in autocracies".'
-date: 2015-10-01
+date: 2023-07-05
 venue: 'SocArXiv'
 paperurl: 'https://doi.org/10.31235/osf.io/a2d5p'
 citation: 'Oswald, C., Walterskirchen, J., Häffner, S., Binetti, M. N., & Dworschak, C. (2023, July 5). Replication of The Morning After: Report from the Nottingham Replication Games. https://doi.org/10.31235/osf.io/a2d5p'
