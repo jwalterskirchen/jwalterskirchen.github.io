@@ -13,7 +13,7 @@ main:
     url: /portfolio/
 
   - title: "Work in Progress"
-    url: /work_in_progress/
+    url: /workinprogress/
     
   - title: "Blog Posts"
     url: /year-archive/
