@@ -4,7 +4,7 @@ collection: presentations
 type: "Presentation"
 permalink: /presentations/afk22
 venue: "Aarhus University"
-date: 2023-09-29
+date: 2022-09-29
 location: "Sønderborg, Denmark"
 ---
 
