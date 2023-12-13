@@ -8,4 +8,4 @@ date: 2017-06-20
 location: "Antwerp, Belgium"
 ---
 
-Attended my co-authors presentation of "A Cross-National Analysis of Forced Population Resettlement in Counterinsurgency Campaigns" at the European Peace Science conference 2017.
+Attended my co-author's presentation of "A Cross-National Analysis of Forced Population Resettlement in Counterinsurgency Campaigns" at the European Peace Science Conference 2017.
