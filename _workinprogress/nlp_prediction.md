@@ -1,10 +1,10 @@
 ---
-title: "Hostile Rhetoric at the UN General Assembly: Using Aspect-Based Sentiment Analysis to Measure Relations between Member States"
+title: "The Promises and Pitfalls of using Text as Data for Crisis-Early Warning: A Comparative Assessment of NLP Methods for Conflict Prediction"
 collection: workinprogress
-permalink: /workinprogress/unga
-excerpt: 'In this paper, we apply stance detection to UN General Assembly speeches.'
+permalink: /workinprogress/nlp_pred
+excerpt: 'In this paper, we compare different NLP approaches and their potential for improving conflict prediction'
 date: 2023-12-01
 venue: 'Not Published'
 paperurl: ''
-citation: 'Häffner, S., Walterskirchen, J. (in progress). Hostile Rhetoric at the UN General Assembly: Using Aspect-Based Sentiment Analysis to Measure Relations between Member States'
+citation: 'Häffner, S., Walterskirchen, J. (in progress). The Promises and Pitfalls of using Text as Data for Crisis-Early Warning: A Comparative Assessment of NLP Methods for Conflict Prediction'
 ---
