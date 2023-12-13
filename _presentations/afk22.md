@@ -2,7 +2,7 @@
 title: "Presentation at the AFK Methods Workshop 2022"
 collection: presentations
 type: "Presentation"
-permalink: /presentations/afk23
+permalink: /presentations/afk22
 venue: "Aarhus University"
 date: 2023-09-29
 location: "Sønderborg, Denmark"
