@@ -3,7 +3,7 @@ title: "Presentation at the AFK Methods Workshop 2022"
 collection: presentations
 type: "Presentation"
 permalink: /presentations/afk23
-venue: "University of the Bundeswehr"
+venue: "Aarhus University"
 date: 2023-09-29
 location: "Sønderborg, Denmark"
 ---
