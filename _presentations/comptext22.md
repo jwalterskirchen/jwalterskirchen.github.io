@@ -2,7 +2,7 @@
 title: "Presentation at COMPTEXT 2022"
 collection: presentations
 type: "Presentation"
-permalink: /presentations/ccew23
+permalink: /presentations/comptext22
 venue: "University College Dublin"
 date: 2022-05-05
 location: "Dublin, Ireland"
