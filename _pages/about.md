@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-The website is still under development
---------------
-
 I'm a Research Associate at the Center for Crisis Early Warning (CCEW), at the University of the Bundeswehr in Munich.
 
 My research focuses on intra-state conflict. In particular, I am interested in the intersection between international, interstate, and intra-state dynamics for civil conflict. I take a special interest in conflict prediction and how to apply natural language processing (NLP) methods to improve crisis early warning models.
