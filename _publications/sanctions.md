@@ -2,7 +2,7 @@
 title: "Sanction Dynamics in the Cases of North Korea, Iran, and Russia"
 collection: publications
 permalink: /publication/sanctions
-excerpt: 'In this paper, we analyse the complete life cycle of sanctions in three case studies.'
+excerpt: 'In this book, we analyse the complete life cycle of sanctions in three case studies.'
 date: 2022-11-29
 venue: 'SpringerBriefs in International Relations'
 paperurl: 'https://doi.org/10.1007/978-3-031-17397-4'
