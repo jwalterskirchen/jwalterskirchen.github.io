@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julian Walterskirchen"
 title_separator          : "-"
 name                     : &name "Julian Walterskirchen"
-description              : &description "Research Associate at the Center for Crisis Early Warning, University of the Bundeswehr Munich"
+description              : &description "PhD Student, Department of Political Science, University of Gothenburg"
 url                      : https://jwalterskirchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwalterskirchen.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Julian Walterskirchen"
   avatar           : "Julian_Walterskirchen_8605 (1).jpg"
-  bio              : "Researcher interested in quantitative conflict research."
-  location         : "Germany"
-  employer         : "Center for Crisis Early Warning"
+  bio              : "PhD student interested in quantitative conflict research."
+  location         : "Sweden"
+  employer         : "University of Gothenburg"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HN2ETEIAAAAJ&hl=en"
   email            :
