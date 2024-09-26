@@ -22,7 +22,7 @@ Work experience
 ======
 * Sep. 2024 - ongoing <b> PhD Student </b>
   * Department of Political Science, University of Gothenburg.
-* Sep. 2021 - ongoing <b> Research Associate </b>
+* Sep. 2021 - 2024 <b> Research Associate </b>
   * Center for Crisis Early Warning, University of the Bundeswehr, Munich. ”Integrating unstructured data sources to improve crisis early warning models”. Director: Prof. Dr. Carlo Masala.
 * Mar. 2021 - Sep. 2021 <b>Research Associate</b>
   * Crisis Early Warning - IT Support, Center for Intelligence and Security Studies (CISS), University of the German Federal Armed Forces. ”Validation of computer-assisted methods to improve crisis early warning models”. Project manager: Prof. Dr. Carlo Masala.
