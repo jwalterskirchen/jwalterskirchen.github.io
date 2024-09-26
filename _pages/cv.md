@@ -9,16 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF Version [here](/files/CV_Walterskirchen_Nov2023.pdf). <i>Updated: Nov. 2023</i>
+Download PDF Version [here](/files/CV_Walterskirchen_Sep24.pdf). <i>Updated: Sep. 2024</i>
 
 
 Education
 ======
-* B.A. in Political Science, University of Innsbruck, 2016
+* PhD in Political Science, University of Gothenburg, ongoing
 * M.Sc. in International Relations, University of Essex, 2017
+* B.A. in Political Science, University of Innsbruck, 2016
 
 Work experience
 ======
+* Sep. 2024 - ongoing <b> PhD Student </b>
+  * Department of Political Science, University of Gothenburg.
 * Sep. 2021 - ongoing <b> Research Associate </b>
   * Center for Crisis Early Warning, University of the Bundeswehr, Munich. ”Integrating unstructured data sources to improve crisis early warning models”. Director: Prof. Dr. Carlo Masala.
 * Mar. 2021 - Sep. 2021 <b>Research Associate</b>
