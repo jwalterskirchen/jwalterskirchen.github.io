@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF Version [here](/files/CV_Walterskirchen_Sep24.pdf). <i>Updated: Sep. 2024</i>
+Download PDF Version [here](/files/CV_Walterskirchen_Jan26.pdf). <i>Updated: Sep. 2024</i>
 
 
 Education
@@ -18,7 +18,7 @@ Education
 * M.Sc. in International Relations, University of Essex, 2017
 * B.A. in Political Science, University of Innsbruck, 2016
 
-Work experience
+Work and Research Experience
 ======
 * Sep. 2024 - ongoing <b> PhD Student </b>
   * Department of Political Science, University of Gothenburg.
