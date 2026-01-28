@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2026-01-23-nlp
 excerpt: 'This paper evaluates the performance of features extracted from a conflict dictionary, two sentiment dictionaries, a word-scaling approach, dynamic topic models, and a transformer model on a classical conflict prediction task.'
 date: 2026-01-23
-venue: 'Accepted: Conflict Management and Peace Science'
+status: 'accepted'
+venue: 'Conflict Management and Peace Science'
 paperurl: 'https://doi.org/10.1177/07388942261422045'
 citation: 'Walterskirchen, J. (2026). Text as Data for Crisis-Early Warning: A Comparative Assessment of NLP Methods for Conflict Prediction. Conflict Management and Peace Science'
 ---
