@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/peacekeeping_replication
 excerpt: 'As part of the Replication Games (I4R) we replicated UN Peacekeeping and Democratization in Conflict-Affected Countries.'
 date: 2024-08-06
+status: 'replication report'
 venue: 'EconStor'
 paperurl: 'https://hdl.handle.net/10419/301427'
 citation: 'Oswald, C., Walterskirchen, J. (2023, July 5). Computational and Robustness Reproducibility of UN Peacekeeping and Democratization in Conflict-Affected Countries. https://hdl.handle.net/10419/301427'
