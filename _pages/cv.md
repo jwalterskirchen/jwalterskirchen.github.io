@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF Version [here](/files/CV_Walterskirchen_Jan26.pdf). <i>Updated: Sep. 2024</i>
+Download PDF Version [here](/files/CV_Walterskirchen_Jan26.pdf). <i>Last Updated: Jan. 2026</i>
 
 
 Education
