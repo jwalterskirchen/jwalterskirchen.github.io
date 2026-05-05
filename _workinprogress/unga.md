@@ -1,11 +1,11 @@
 ---
-title: "Friend or Foe: Using Aspect-Based Sentiment Analysis to Measure Relations between Member States at the UN General Assembly"
+title: "Beyond Diplomatic Niceties: Exploring Dynamics at the UN General Assembly through Aspect-Based Sentiment Analysis"
 collection: workinprogress
 permalink: /workinprogress/unga
-excerpt: 'In this paper, we apply stance detection to UN General Assembly speeches.'
-date: 2023-12-01
+excerpt: 'In this paper, I apply stance detection to UN General Assembly speeches.'
+date: 2026-05-05
 venue: 'Not Published'
 paperurl: ''
-citation: 'Häffner, S., Walterskirchen, J. (in progress). Hostile Rhetoric at the UN General Assembly: Using Aspect-Based Sentiment Analysis to Measure Relations between Member States'
+citation: 'Walterskirchen, J. (in progress). Beyond Diplomatic Niceties: Exploring Dynamics at the UN General Assembly through Aspect-Based Sentiment Analysis'
 ---
 
