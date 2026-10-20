@@ -1,9 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"II":
+  url: https://www.tandfonline.com/journals/gini20
+  color: "#1f5aa6"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CMPS":
+  url: https://journals.sagepub.com/home/cmp
+  color: "#7a3e9d"
 
-"Vision":
-  color: "#009f36"
+"Nature":
+  url: https://www.nature.com/nature/
+  color: "#b32d2e"
+
+"JPR":
+  url: https://journals.sagepub.com/home/jpr
+  color: "#1b7f5c"
+
+"PA":
+  url: https://www.cambridge.org/core/journals/political-analysis
+  color: "#c26a00"
+
+"PEPS":
+  url: https://www.degruyter.com/journal/key/peps/html
+  color: "#4a6572"
+
+"Springer":
+  url: https://link.springer.com/
+  color: "#2b6c8f"
+
+"SocArXiv":
+  url: https://osf.io/preprints/socarxiv
+  color: "#6b6b6b"

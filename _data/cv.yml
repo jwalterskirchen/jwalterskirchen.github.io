@@ -1,189 +1,221 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Julian Walterskirchen
+  label: PhD Student, Department of Political Science, University of Gothenburg
+  email: julian.walterskirchen[at]gu.se
+  website: https://jwalterskirchen.github.io
+  location: Gothenburg, Sweden
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  summary: >-
+    Research interests: conflict and security studies, international relations, quantitative methods, international military
+    cooperation, conflict prediction, natural language processing, machine learning, counter-terrorism, and the prevention of
+    violent extremism.
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Sprängkullsgatan 19
+    city: Göteborg
+    region: ""
+    postalCode: 405 30
+    countryCode: SE
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Gothenburg
+        location: Gothenburg, Sweden
+        area: Political Science
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: "2024-09"
         highlights:
-          - Description 1.
-          - Description 2.
+          - 'Department of Political Science. Dissertation project: "International Military Cooperation and Civil War".'
+          - Supervisors, Magnus Lundgren and Ann Towns.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Essex
+        area: International Relations
+        studyType: M.Sc.
+        start_date: "2016-10"
+        end_date: "2017-12"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Graduated with distinction.
+          - Thesis supervision, Prof. Dr. Kristian S. Gleditsch.
+
+      - institution: University of Innsbruck
+        area: Political Science
+        studyType: B.A.
+        start_date: "2012-10"
+        end_date: "2016-06"
+        highlights:
+          - Thesis supervision, Prof. Dr. Gerhard Mangott.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Department of Political Science, University of Gothenburg
+        position: PhD Student
+        location: Gothenburg, Sweden
+        start_date: "2024-09"
+        summary: '"International Military Cooperation and Civil War". Supervised by Magnus Lundgren and Ann Towns.'
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Center for Crisis Early Warning, University of the Bundeswehr
+        position: Research Associate
+        location: Munich, Germany
+        start_date: "2024-01"
+        end_date: "2024-08"
+        summary: >-
+          "Providing scientific support modelling conflicts and crises early warning for the German Federal Foreign Office's
+          PREVIEW Data Science Team". Director: Prof. Dr. Carlo Masala.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Center for Crisis Early Warning, University of the Bundeswehr
+        position: Research Associate
+        location: Munich, Germany
+        start_date: "2021-09"
+        end_date: "2023-12"
+        summary: >-
+          "Integrating unstructured data sources to improve crisis early warning models". Director: Prof. Dr. Carlo Masala.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Center for Intelligence and Security Studies (CISS), University of the German Federal Armed Forces
+        position: Research Associate (Crisis Early Warning - IT Support)
+        start_date: "2021-03"
+        end_date: "2021-09"
+        summary: >-
+          "Validation of computer-assisted methods to improve crisis early warning models". Project manager: Prof. Dr. Carlo
+          Masala.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Department of Political Science, University of Innsbruck
+        position: Research Assistant
+        location: Innsbruck, Austria
+        start_date: "2019-03"
+        end_date: "2021-02"
+        summary: >-
+          Austrian National Bank (OeNB) funded project: "Sanction dynamics in the cases of North Korea, Iran and Russia:
+          Objectives, Measures and Effects". Supervised by Prof. Dr. Gerhard Mangott.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: United Nations Office of Counter-Terrorism
+        position: Prevention of Violent Extremism (PVE) Consultant
+        location: New York City, USA
+        start_date: "2018-04"
+        end_date: "2019-01"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: United Nations Office of Counter-Terrorism
+        position: Political Affairs Intern
+        location: New York City, USA
+        start_date: "2017-09"
+        end_date: "2018-02"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: "Taking time seriously: Predicting conflict fatalities using temporal fusion transformers"
+        publisher: International Interactions, 52(4), 687–706
+        releaseDate: "2026"
+        url: https://doi.org/10.1080/03050629.2026.2656637
+        summary: With Christian Oswald, Sonja Häffner, and Marco N. Binetti.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Reproducibility and robustness of economics and political science research
+        publisher: Nature, 652, 151–156
+        releaseDate: "2026"
+        url: https://doi.org/10.1038/s41586-026-10251-x
+        summary: Collaboration organized by the Institute for Replication (I4R).
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: "Text as data for crisis-early warning: A comparative assessment of NLP methods for conflict prediction"
+        publisher: Conflict Management and Peace Science (Online First)
+        releaseDate: "2026"
+        url: https://doi.org/10.1177/07388942261422045
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "The 2023/24 VIEWS Prediction Challenge: Predicting the Number of Fatalities in Armed Conflict, with Uncertainty"
+        publisher: Journal of Peace Research, 62(6)
+        releaseDate: "2025"
+        summary: With Håvard Hegre, Paola Vesco, Michael Colaresi, Jonas Vestby, et al.
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: "Introducing an Interpretable Deep Learning Approach to Domain-Specific Dictionary Creation: A Use Case for Conflict Prediction"
+        publisher: Political Analysis, 31(4), 481–499
+        releaseDate: "2023"
+        url: https://doi.org/10.1017/pan.2023.7
+        summary: With Sonja Häffner, Maximilian Nagl, and Martin Hofer.
 
-      - name: English
-        summary: "Fluent"
+      - title: "A Cross-National Analysis of Forced Population Resettlement in Counterinsurgency Campaigns"
+        publisher: Peace Economics, Peace Science and Public Policy, 26(1)
+        releaseDate: "2019"
+        url: https://doi.org/10.1515/peps-2019-0022
+        summary: With Tobias Böhmelt, Christoph Dworschak, and Ulrich Pilster.
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Sanction dynamics in the cases of North Korea, Iran and Russia: Objectives, Measures and Effects"
+        publisher: SpringerBriefs in International Relations (monograph)
+        releaseDate: "2022"
+        url: https://doi.org/10.1007/978-3-031-17397-4
+        summary: With Gerhard Mangott and Clara Wend.
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Papers under review:
+      - bullet: >-
+          "Military Alliance Portfolios and Civil War Onset: A Global Counterfactual Analysis".
+      - bullet: >-
+          "The night before or the morning after: Coup risk, failed coup attempts, and minister removals in autocracies". With
+          Christian Oswald, Sonja Häffner, Marco N. Binetti, and Christoph Dworschak.
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Work in progress:
+      - bullet: >-
+          "The Moral Hazard of Alliances: External Guarantees, Repression, and Protest".
+      - bullet: >-
+          "Friend or Foe: Using Aspect-Based Sentiment Analysis to Measure Relations between Member States at the UN General
+          Assembly".
+      - bullet: >-
+          "The Impact of Sanctions Imposition Coordination: A Time-Varying Measure of EU and US Sanctions Coordination in the
+          Cases of Russia, Iran, and North Korea".
+      - bullet: >-
+          "Two Sides of the Same Coin: Forced Resettlement and Mass Killing." With Christoph Dworschak.
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Replication reports:
+      - bullet: >-
+          "Computational and Robustness Reproducibility of UN Peacekeeping and Democratization in Conflict-Affected
+          Countries". With Christian Oswald. [doi.org/10.31235/osf.io/7k2vz](https://doi.org/10.31235/osf.io/7k2vz)
+      - bullet: >-
+          "Replication of The Morning After: Report from the Nottingham Replication Games". With Christian Oswald, Sonja Häffner,
+          Marco N. Binetti, and Christoph Dworschak. [doi.org/10.31235/osf.io/a2d5p](https://doi.org/10.31235/osf.io/a2d5p)
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    Teaching:
+      - bullet: "**University of Gothenburg, Department of Political Science**"
+      - bullet: "Spring 2027: SK1127 Conflict and Conflict Resolution (Bachelors; Course Co-Coordinator), SK1136 Foreign Policy Analysis (Bachelors), EU1145 EU role in International Relations (Bachelors)"
+      - bullet: "Fall 2026: SK1127 Conflict and Conflict Resolution (Bachelors; Course Co-Coordinator), SK1136 Foreign Policy Analysis (Bachelors), EU2215 Europe in the World (Masters)"
+      - bullet: "Spring 2026: SK1136 Foreign Policy Analysis (Bachelors), SK1127 Conflict and Conflict Resolution (Bachelors), EU1145 EU role in International Relations (Bachelors)"
+      - bullet: "Fall 2025: EU2215 Europe in the World (Masters), SK1136 Foreign Policy Analysis (Bachelors)"
+      - bullet: "**University of Innsbruck, Department of Political Science**"
+      - bullet: "Winter 2020/21: 402010 PS Applied Methods of Social Sciences (Course Convener)"
+      - bullet: "Summer 2020: 402024 PS Statistics: Statistics for Social Sciences using R (Course Convener)"
+      - bullet: "Winter 2019/20: 402022 PS Statistics: Statistics for Social Sciences using R (Course Convener)"
+
+    Supervision:
+      - bullet: "Summer 2026: Co-supervision of a Master's thesis in European Studies (University of Gothenburg)"
+      - bullet: "Summer 2026: Co-supervision of a Master's thesis in International Administration and Global Governance (University of Gothenburg)"
+      - bullet: "Summer 2025: Co-supervision of a Master's thesis in International Administration and Global Governance (University of Gothenburg)"
+
+    Teaching Accreditation:
+      - bullet: "Sep. 2025 - Mar. 2026: Teaching and Learning in Higher Education: Basic Course (PIL101), University of Gothenburg. Includes teaching methods for PhD students in Social Science and a legal module."
+
+    Summer Schools and Methods Training:
+      - bullet: "Jul. 2025: ICPSR Summer Program in Quantitative Methods, Causal Inference for the Social Sciences II (Sebastian Calonico and Nicolas Idrobo). EITM certified."
+      - bullet: "Jul. 2025: ICPSR Summer Program in Quantitative Methods, Bayesian Modeling for the Social Sciences II: HLMs, GLMs, and LLMs (Marc Ratkovic). EITM certified."
+      - bullet: "Jun. 2025: Research School on Peace and Conflict, PhD Course on Conflict Trends. PRIO and University of Oslo."
+      - bullet: "Aug. 2021: University of Essex Summer School in Social Science and Data Analysis, Advanced Machine Learning For Social Scientists (Reto Wüest)."
+      - bullet: "Aug. 2017: University of Essex Summer School in Social Science and Data Analysis, Agent Based Models (Darren Schreiber)."
+      - bullet: "Jul. 2017: University of Essex Summer School in Social Science and Data Analysis, Data Visualization (Richard Traunmüller)."
+
+    Conferences:
+      - bullet: "Sep. 2026: American Political Science Association (APSA), Boston, US"
+      - bullet: "Jun. 2026: European Peace Science Conference (NEPS), Berlin, Germany"
+      - bullet: "Jun. 2026: European Political Science Society (EPSS), Belfast, UK"
+      - bullet: "Oct. 2023: Center for Crisis Early Warning Symposium, Munich, Germany"
+      - bullet: "Jun. 2023: European Peace Science Conference (NEPS), Bologna, Italy"
+      - bullet: "May 2023: Computational Text Analysis (COMPTEXT), Glasgow, UK"
+      - bullet: "May 2022: Computational Text Analysis (COMPTEXT), Dublin, Ireland"
+      - bullet: "Aug. 2020: European Consortium for Political Research (ECPR), online"
+      - bullet: "Jun. 2017: European Peace Science Conference (NEPS), Antwerp, Belgium"
+
+    Invited Presentations:
+      - bullet: "Jun. 2026: Comparative Institutions and Regimes, Department of Political Science, University of Oslo"
+      - bullet: "Jun. 2026: PhD seminar series, Department of Political Science, University of Oslo"
+
+    Workshops:
+      - bullet: "Apr. 2026: Workshop “Conflict Research”, Gothenburg, Sweden (co-organizer)"
+      - bullet: "Feb. 2026: Workshop “Quality of Government Institute”, Gothenburg, Sweden"
+      - bullet: "Nov. 2025: Workshop “Peace Research in Sweden”, Uppsala, Sweden"
+      - bullet: "Oct. 2023: Workshop “2023/24 VIEWS prediction challenge”, Berlin, Germany"
+      - bullet: "Sep. 2023: Workshop “Empirical Research on Peace and Conflict” (AFK Methoden), Munich, Germany (co-organizer)"
+      - bullet: "Sep. 2022: Workshop “Empirical Research on Peace and Conflict” (AFK Methoden), Sandbjerg, Denmark"
+      - bullet: "Jul. 2017: Workshop “Political, Economic, Social, and Legal Aspects of Hosting Migrants and Refugees”, Bahçeşehir University, Istanbul, Turkey"
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - bullet: Available upon request.

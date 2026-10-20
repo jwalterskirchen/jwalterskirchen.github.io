@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, Department of Political Science, University of Gothenburg
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Statsvetenskapliga institutionen</p>
+    <p>Göteborgs universitet</p>
+    <p>Sprängkullsgatan 19</p>
+    <p>405 30 Göteborg, Sweden</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a PhD student at the Department of Political Science, University of Gothenburg, where I am supervised by Magnus Lundgren and Ann Towns.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My focus is on empirical conflict research. In particular, I am interested in the intersection between international, interstate, and intra-state dynamics for civil conflict. My dissertation project, "International Military Cooperation and Civil War", examines how military cooperation between states shapes civil conflict. I take a special interest in quantitative methods, conflict prediction and how to apply natural language processing (NLP) and machine learning approaches in political science. My other research interests include counter-terrorism and the prevention of violent extremism.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a M.Sc. in International Relations from the University of Essex, and a B.A. in Political Science from the University of Innsbruck.
+
+Previously, I worked as a Research Associate at the Center for Crisis Early Warning (CCEW), at the University of the Bundeswehr in Munich, investigating how to improve conflict prediction with text-as-data approaches (2021-2023) and, in 2024, providing scientific support for the German Federal Foreign Office's PREVIEW Data Science Team on modelling conflicts and crises early warning. In 2021, I also provided scientific support for an IBM-led project developing a crisis early warning system for Germany's Ministry of Defence. Before that, I worked as a Research Assistant in an OeNB-funded project on sanctions dynamics at the University of Innsbruck (2019-2021). I also worked as a prevention of violent extremism (PVE) consultant at the United Nations Office of Counter-Terrorism in New York (2017-2019).
