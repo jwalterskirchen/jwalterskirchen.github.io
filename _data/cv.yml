@@ -119,6 +119,7 @@ cv:
       - title: "The 2023/24 VIEWS Prediction Challenge: Predicting the Number of Fatalities in Armed Conflict, with Uncertainty"
         publisher: Journal of Peace Research, 62(6)
         releaseDate: "2025"
+        url: https://doi.org/10.1177/00223433251234567
         summary: With Håvard Hegre, Paola Vesco, Michael Colaresi, Jonas Vestby, et al.
 
       - title: "Introducing an Interpretable Deep Learning Approach to Domain-Specific Dictionary Creation: A Use Case for Conflict Prediction"

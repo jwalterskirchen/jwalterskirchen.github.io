@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Statsvetenskapliga institutionen</p>
-    <p>Göteborgs universitet</p>
+    <p>Department of Political Science</p>
+    <p>University of Gothenburg</p>
     <p>Sprängkullsgatan 19</p>
     <p>405 30 Göteborg, Sweden</p>
 
