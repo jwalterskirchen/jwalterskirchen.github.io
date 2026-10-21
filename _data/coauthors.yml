@@ -2,4 +2,15 @@
 # "oswald":
 #   - firstname: ["Christian", "C."]
 #     url: https://example.com
-{}
+
+"oswald":
+  - firstname: ["Christian", "C."]
+    url: https://christianoswald.net/
+
+"dworschak":
+  - firstname: ["Christoph", "C."]
+    url: https://www.chrisdworschak.com/
+
+"binetti":
+  - firstname: ["Marco", "M.", "Marco N.", "M. N."]
+    url: https://www.uni-bremen.de/en/institut-fuer-interkulturelle-und-internationale-studien/personen/wissenschaftliche-mitarbeiterinnen/marco-nicola-binetti
