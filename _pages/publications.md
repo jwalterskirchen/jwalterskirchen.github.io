@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Peer-reviewed articles, a monograph, and replication reports, in reverse chronological order.
+description: Peer-reviewed articles, monographs, and replication reports, in reverse chronological order.
 nav: true
 nav_order: 2
 ---
