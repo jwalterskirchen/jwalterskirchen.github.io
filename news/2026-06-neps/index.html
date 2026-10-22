@@ -24,7 +24,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Peer-reviewed articles, a monograph, and replication reports, in reverse chronological order.",
+          description: "Peer-reviewed articles, monographs, and replication reports, in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -90,6 +90,11 @@ ninja.data = [{
           description: "Explore the conflict-intensity dictionary OcODi in a Streamlit app",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/ocodi/";
+            },},{id: "projects-prio-blog-post",
+          title: 'PRIO Blog Post',
+          description: "A blog post discussing our",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/prio/";
             },},{id: "projects-taking-time-seriously-predicting-conflict-fatalities-using-temporal-fusion-transformers",
           title: 'Taking time seriously: Predicting conflict fatalities using temporal fusion transformers',
           description: "Companion Streamlit app for our contribution to the VIEWS prediction challenge 2023/24",
