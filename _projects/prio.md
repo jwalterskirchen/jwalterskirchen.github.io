@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PRIO Blog Post"
-description: "A blog post discussing our "
+title: "PRIO Comment - Predicting conflict fatalities with temporal fusion transformers"
+description: "A blog post discussing our paper in International Interactions on predicting conflict fatalities with temporal fusion transformers"
 img: assets/img/PRIO Logo.png
 importance: 2
 category: apps

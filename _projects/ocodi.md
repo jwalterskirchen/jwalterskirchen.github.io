@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OcODi Streamlit App"
-description: "Explore the conflict-intensity dictionary OcODi in a Streamlit app"
+description: "Companion App for our PA paper to explore the conflict-intensity dictionary OcODi"
 img: assets/img/ocodi.jpg
 importance: 2
 category: apps
