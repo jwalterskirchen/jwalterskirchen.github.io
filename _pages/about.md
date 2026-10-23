@@ -20,13 +20,13 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
 ---
 
-I'm a PhD student at the Department of Political Science, University of Gothenburg, where I am supervised by Magnus Lundgren and Ann Towns.
+I'm a PhD student at the Department of Political Science, University of Gothenburg, where I am supervised by [Magnus Lundgren](https://magnuslundgren.org/) and [Ann Towns](https://www.gu.se/en/about/find-staff/anntowns).
 
 My focus is on empirical conflict research. In particular, I am interested in the intersection between international, interstate, and intra-state dynamics for civil conflict. My dissertation project, "International Military Cooperation and Civil War", examines how military cooperation between states shapes civil conflict. I take a special interest in quantitative methods, conflict prediction and how to apply natural language processing (NLP) and machine learning approaches in political science. My other research interests include counter-terrorism and the prevention of violent extremism.
 
