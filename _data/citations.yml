@@ -1,3 +1,53 @@
 metadata:
-  last_updated: "2000-01-01"
-papers: {}
+  last_updated: "2026-11-24"
+
+papers:
+  "HN2ETEIAAAAJ:qxL8FJ1GzNcC":
+    title: "Taking time seriously: Predicting conflict fatalities using temporal fusion transformers"
+    year: "2026"
+    citations: 7
+
+  "HN2ETEIAAAAJ:M3ejUd6NZC8C":
+    title: "Reproducibility and robustness of economics and political science research"
+    year: "2026"
+    citations: 143
+
+  "HN2ETEIAAAAJ:W7OEmFMy1HYC":
+    title: "Text as data for crisis-early warning: A comparative assessment of NLP methods for conflict prediction"
+    year: "2026"
+    citations: 2
+
+  "HN2ETEIAAAAJ:Y0pCki6q_DkC":
+    title: "The 2023/24 VIEWS Prediction challenge: Predicting the number of fatalities in armed conflict, with uncertainty"
+    year: "2025"
+    citations: 24
+
+  "HN2ETEIAAAAJ:eQOLeE2rZwMC":
+    title: "The night before or the morning after: Coup risk, failed coup attempts, and minister removals in autocracies"
+    year: "2024"
+    citations: 1
+
+  "HN2ETEIAAAAJ:YsMSGLbcyi4C":
+    title: 'Computational and Robustness Reproducibility of "UN Peacekeeping and Democratization in Conflict-Affected Countries"'
+    year: "2024"
+    citations: 0
+
+  "HN2ETEIAAAAJ:qjMakFHDy7sC":
+    title: "Introducing an interpretable deep learning approach to domain-specific dictionary creation: A use case for conflict prediction"
+    year: "2023"
+    citations: 43
+
+  "HN2ETEIAAAAJ:IjCSPb-OGe4C":
+    title: "Replication of The Morning After: Report from the Nottingham Replication Games"
+    year: "2023"
+    citations: 2
+
+  "HN2ETEIAAAAJ:u-x6o8ySG0sC":
+    title: "Sanction Dynamics in the Cases of North Korea, Iran, and Russia: Objectives, Measures and Effects"
+    year: "2022"
+    citations: 17
+
+  "HN2ETEIAAAAJ:u5HHmVD_uO8C":
+    title: "A Cross-National Analysis of Forced Population Resettlement in Counterinsurgency Campaigns"
+    year: "2020"
+    citations: 6
